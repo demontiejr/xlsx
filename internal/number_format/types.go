@@ -5,8 +5,11 @@
 package number
 
 import (
+	"strings"
+
 	"github.com/plandem/xlsx/internal/ml"
 	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/plandem/xlsx/internal/number_format/convert"
 )
 
 //Type of underlying value of built-in number format
