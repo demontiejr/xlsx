@@ -37,7 +37,7 @@ const LastReservedID = 163
 
 var dateFormatParts = map[string]string{
 	"d":    "02",
-	"m/":   "01/"
+	"m/":   "01/",
 	"m-":   "01-",
 	"mmm":  "Jan",
 	"yy":   "06",
